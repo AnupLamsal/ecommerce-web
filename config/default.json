@@ -1,0 +1,3 @@
+{
+  "MONGO_URI" : "mongodb+srv://anuplamsal:anuplamsal@cluster.p5jrb.mongodb.net/BradEcommerce?retryWrites=true&w=majority"
+}
